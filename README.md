@@ -6,7 +6,6 @@ Inspired by Express.js, it provides a simple API for routing, request handling, 
 
 ## Features
 
-- Routing (including support for dynamic routes)
 - Middleware support
 - Request and Response objects similar to Express.js
 - Static file serving
